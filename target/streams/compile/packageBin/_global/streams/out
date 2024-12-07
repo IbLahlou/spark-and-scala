@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/iblahlou/Documents/data_engineering_project/spark-scala-project/target/scala-2.12/spark-scala-project_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/iblahlou/Documents/data_engineering_project/spark-scala-project/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/iblahlou/Documents/data_engineering_project/spark-scala-project/target/scala-2.12/classes/com/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/SimpleApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/iblahlou/Documents/data_engineering_project/spark-scala-project/target/scala-2.12/classes/com/example/SimpleApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/SimpleApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/iblahlou/Documents/data_engineering_project/spark-scala-project/target/scala-2.12/classes/com/example/SimpleApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
